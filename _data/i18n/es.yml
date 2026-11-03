@@ -1,0 +1,105 @@
+locale: es_ES
+tagline: Tiempos de llegada del autobús urbano
+home: /
+skip: Saltar al contenido
+
+nav:
+  label: Principal
+  features: Funciones
+  screenshots: Capturas
+  privacy: Privacidad
+  switch_short: EN
+  switch_name: English
+
+play:
+  alt: Disponible en Google Play
+  badge: /assets/img/google-play-badge-es.png
+
+hero:
+  eyebrow: Autobuses urbanos de Ávila
+  title: ¿Cuánto le falta a tu bus?
+  lead: Tiempos de llegada en tiempo real de tus paradas favoritas y de las que tienes más cerca.
+  note: Gratis · Sin registro · Android 8 o superior
+  board_label: Panel de parada de ejemplo con las próximas llegadas a San Vicente
+  board_stop: PARADA 52 · SAN VICENTE
+
+stats:
+  label: Datos
+  lines: líneas, regulares y especiales
+  stops: paradas, con su foto a pie de calle
+  since: nueva en Google Play
+  free: sin cuentas ni registros
+
+story:
+  kicker: Funciones
+  title: Todo lo que necesitas en la parada
+  intro: Seis paradas por la app. Baja la página y el móvil te enseña cada pantalla.
+  nearby:
+    title: Cerca de ti
+    text: Tus paradas favoritas y las más cercanas, con las próximas llegadas de cada línea y a qué distancia está el autobús.
+    in: "en %m min"
+    now: Llegando
+    first_away: a 900 m
+    first_then: luego ~ en 22 min
+    second_away: a 1,6 km
+    second_then: luego ~ en 51 min
+    chips: [Se actualiza solo, Distancia al bus, "~ = según el horario", Búsqueda por número o nombre]
+    alt: Pantalla Cerca con las favoritas y las paradas cercanas
+  stop:
+    title: Reconoce tu parada
+    text: Cada parada tiene su foto de Street View, una brújula que te indica hacia dónde está y las llegadas de todas sus líneas.
+    detail: Parada 101 · a 30 m, hacia el norte
+    chips: ["✎ Renómbrala: «Trabajo»", ★ Favorita, Compartir]
+    alt: Detalle de la parada San Segundo con su foto
+  lines:
+    title: Todas las líneas
+    text: Las regulares y las especiales, con su recorrido de ida y vuelta, su frecuencia y si están en servicio ahora mismo, también en domingos y festivos.
+    active: ● Activa
+    chips: [Cada 18 min, Ida y vuelta, "Especiales: 11, 17 y 18"]
+    alt: Recorrido de la línea 1, Escuela de Policía - San Nicolás
+  map:
+    title: Toda la red en el mapa
+    text: Todas las paradas y el recorrido real de las líneas por las calles. Combina las líneas que quieras y toca una parada para ver sus llegadas o cómo llegar a pie.
+    legend: Las 9 líneas
+    chips: [194 paradas, Cómo llegar a pie, Modo oscuro]
+    alt: Mapa de Ávila con varias líneas
+  fares:
+    title: Tarifas al día
+    text: Billetes, bonos y abonos con su precio vigente, para saber qué te conviene antes de subir.
+    tickets:
+      - { name: Billete ordinario, price: "1,30 €" }
+      - { name: Bono ordinario, price: "0,70 €", unit: por viaje }
+      - { name: Bono mensual, price: "22 €", unit: 30 días }
+    chips: [Bono joven y jubilado, Familia numerosa, Transbordo gratis en 45 min]
+    alt: Pantalla de tarifas
+  yours:
+    title: A tu manera
+    text: Elige cómo ver los tiempos, el tema y el idioma. Funciona con TalkBack y con letra grande.
+    toggle: "Formato de llegada: en minutos o en hora"
+    relative: en 2 min
+    clock: "10:02"
+    chips: [◐ Claro y oscuro, ES · EN, Aa Letra grande, TalkBack]
+    alt: Pantalla Cerca en modo oscuro, con los tiempos en minutos
+
+gallery:
+  kicker: Capturas
+  title: Así se ve en tu móvil
+  zoom: Ampliar
+  viewer: Captura ampliada
+  close: Cerrar
+  prev: Anterior
+  next: Siguiente
+  # The Play listing's graphics, when Ávila has them (assets/img/play/es/<n>.webp). Empty: no gallery.
+  shots: []
+
+closing:
+  title: Sal de casa a tu hora
+
+footer:
+  label: Pie de página
+  privacy: Política de privacidad
+  disclaimer: Ávila Bus es una app independiente y no está vinculada a Avanza ni al Ayuntamiento de Ávila. Los tiempos de llegada son los que publica el servicio de información de los autobuses urbanos de Ávila; los horarios, los del Punto de Acceso Nacional de Transportes (Ministerio de Transportes y Movilidad Sostenible).
+  trademark: Google Play y el logotipo de Google Play son marcas de Google LLC.
+
+updated: "Última actualización:"
+months: [enero, febrero, marzo, abril, mayo, junio, julio, agosto, septiembre, octubre, noviembre, diciembre]

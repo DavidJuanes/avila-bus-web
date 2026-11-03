@@ -1,0 +1,104 @@
+locale: en_GB
+tagline: Real-time city bus arrivals
+home: /en/
+skip: Skip to content
+
+nav:
+  label: Main
+  features: Features
+  screenshots: Screenshots
+  privacy: Privacy
+  switch_short: ES
+  switch_name: Español
+
+play:
+  alt: Get it on Google Play
+  badge: /assets/img/google-play-badge-en.png
+
+hero:
+  eyebrow: Ávila city buses
+  title: When's your bus coming?
+  lead: Real-time arrivals at your favourite stops and the ones closest to you.
+  note: Free · No sign-up · Android 8 or later
+  board_label: Example stop display with the next arrivals at San Vicente
+  board_stop: STOP 52 · SAN VICENTE
+
+stats:
+  label: Facts
+  lines: lines, regular and special
+  stops: stops, each with a street-level photo
+  since: new on Google Play
+  free: no accounts, no sign-up
+
+story:
+  kicker: Features
+  title: Everything you need at the stop
+  intro: Six stops along the app. Scroll down and the phone shows you each screen.
+  nearby:
+    title: Near you
+    text: Your favourite stops and the closest ones, with the next arrivals of every line and how far away the bus is.
+    in: "in %m min"
+    now: Arriving
+    first_away: 900 m away
+    first_then: then ~ in 22 min
+    second_away: 1.6 km away
+    second_then: then ~ in 51 min
+    chips: [Updates by itself, Distance to the bus, "~ = timetable", Search by number or name]
+    alt: Nearby screen with favourite and nearby stops
+  stop:
+    title: Recognise your stop
+    text: Every stop has its Street View photo, a compass that points the way, and the arrivals of all its lines.
+    detail: Stop 101 · 30 m away, to the north
+    chips: ["✎ Rename it: “Work”", ★ Favourite, Share]
+    alt: San Segundo stop detail with its photo
+  lines:
+    title: Every line
+    text: Regular and special lines, with their outbound and return routes, how often they run and whether they're running right now, Sundays and bank holidays included.
+    active: ● Running
+    chips: [Every 18 min, Outbound and return, "Special: 11, 17 and 18"]
+    alt: Route of line 1, Escuela de Policía - San Nicolás
+  map:
+    title: The whole network on a map
+    text: Every stop and the real route of each line through the streets. Combine any lines you like and tap a stop to see its arrivals or walking directions.
+    legend: The 9 lines
+    chips: [194 stops, Walking directions, Dark mode]
+    alt: Map of Ávila with several lines
+  fares:
+    title: Up-to-date fares
+    text: Tickets, multi-trip cards and passes with their current price, so you know what suits you before you board.
+    tickets:
+      - { name: Single ticket, price: "€1.30" }
+      - { name: Standard pass, price: "€0.70", unit: per trip }
+      - { name: Monthly pass, price: "€22", unit: 30 days }
+    chips: [Youth and senior passes, Large families, Free transfer within 45 min]
+    alt: Fares screen
+  yours:
+    title: Your way
+    text: Choose how to see arrival times, the theme and the language. Works with TalkBack and large text.
+    toggle: "Arrival format: minutes or clock time"
+    relative: in 2 min
+    clock: "10:02"
+    chips: [◐ Light and dark, ES · EN, Aa Large text, TalkBack]
+    alt: Nearby screen in dark mode, with times in minutes
+
+gallery:
+  kicker: Screenshots
+  title: What it looks like on your phone
+  zoom: Enlarge
+  viewer: Enlarged screenshot
+  close: Close
+  prev: Previous
+  next: Next
+  # The Play listing's graphics, when Ávila has them (assets/img/play/en/<n>.webp). Empty: no gallery.
+  shots: []
+
+closing:
+  title: Leave home right on time
+
+footer:
+  label: Footer
+  privacy: Privacy policy
+  disclaimer: Ávila Bus is an independent app, not affiliated with Avanza or Ávila City Council. Arrival times are the ones published by the information service of Ávila's city buses; timetables come from Spain's National Access Point for transport data (Ministry of Transport and Sustainable Mobility).
+  trademark: Google Play and the Google Play logo are trademarks of Google LLC.
+
+updated: "Last updated:"

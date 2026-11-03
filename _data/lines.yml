@@ -1,0 +1,11 @@
+# Line badges with their colours, from bus-data-library's lines.json (bus-data-avila). "dark" lines need dark text,
+# as the app picks by contrast: with Ávila's pastel colours, all of them.
+- { id: "1", color: "#DD7464", dark: true }
+- { id: "2", color: "#71B982", dark: true }
+- { id: "3", color: "#8F82C6", dark: true }
+- { id: "4", color: "#F3A46D", dark: true }
+- { id: "5", color: "#B5799E", dark: true }
+- { id: "6", color: "#DE719E", dark: true }
+- { id: "11", color: "#B3815B", dark: true }
+- { id: "17", color: "#9A9971", dark: true }
+- { id: "18", color: "#729696", dark: true }
